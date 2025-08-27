@@ -1,4 +1,4 @@
-# European-League-Football-
+# European-League-Football
 
 # European Football League Analysis (20/21 – 24/25)
 
