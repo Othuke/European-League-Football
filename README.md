@@ -66,7 +66,7 @@ A tighter standard deviation implies a flatter distribution where outcomes are l
 
 ### Other Metrics used include:
 * Average Goals Per Match
-* Home/Away WIns
+* Home/Away Wins
 * Win Percentage
 * Draw Percentage
 
@@ -74,9 +74,13 @@ A tighter standard deviation implies a flatter distribution where outcomes are l
 
 
 ## ✅ Conclusion
-The EPL’s dominance is **more marketing than reality**.  
-Each league has distinct strengths:
-- **La Liga / Serie A → Intensity**
-- **Bundesliga → Goals & Attacking Quality**
-- **EPL → Global dominance and top-team strength but less balanced**
+
+The data reveals that the Premier League is not superior across all metrics. Instead:
+
+* La Liga = intensity & physical battles
+* Bundesliga = goals & attacking quality
+* Ligue 1 = balanced competition
+* EPL = global dominance & top-team strength
+
+This project demonstrates how perceptions differ from reality and invites fans to appreciate the unique value each league brings to European football.
 
