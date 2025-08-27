@@ -4,12 +4,19 @@
 
 This project investigates the long-standing debate: Is the Premier League really the “best league in the world,” or are other top European leagues unfairly dismissed as “farmers' leagues”?
 
+![Dashboard](Pictures/Top5_league.png)
 
 ## Data Scope
 
-Leagues covered: Bundesliga, EPL, La Liga, Ligue 1, Serie A
-
 Seasons analysed: 2020/21 – 2024/25
+
+Leagues covered: 
+
+* Bundesliga
+* EPL
+* La Liga
+* Ligue 1
+* Serie A
 
 ---
 ## Key Insights and Metrics used
