@@ -52,10 +52,15 @@ Competitiveness was assessed via the standard deviation of win percentages acros
 
 $$
 \sigma = \sqrt{\frac{1}{N}\sum_{i=1}^{N}\left(p_i - \bar{p}\right)^2}
-\quad\text{where}\quad
-\bar{p} = \frac{1}{N}\sum_{i=1}^{N} p_i
+\quad\
+text{where}\bar{p} = text {league average and }
+\quad\
+\p_i  = text {win percentage of each team}
 $$
 
+	​
+
+ = league average.
 The Bundesliga and Ligue 1 both record 0.13, which reflects a more homogeneous distribution of team performance, whereas the EPL’s 0.14 indicates slightly higher variance, translating into greater disparity between its best and worst teams. From an inferential perspective, this variance difference, though numerically small, is statistically meaningful in shaping perceptions of league unpredictability. 
 
 A tighter standard deviation implies a flatter distribution where outcomes are less predictable, increasing competitive balance. By contrast, a higher deviation in the EPL supports the perception of top-team dominance but also makes mid-table variance more pronounced.
